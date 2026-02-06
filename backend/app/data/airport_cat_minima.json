@@ -1,0 +1,613 @@
+{
+  "BIKF": {
+    "category": "CAT II"
+  },
+  "CYYC": {
+    "category": "CAT III"
+  },
+  "CYHZ": {
+    "category": "CAT II"
+  },
+  "CYHM": {
+    "category": "CAT II"
+  },
+  "CYOW": {
+    "category": "CAT II"
+  },
+  "CYQB": {
+    "category": "CAT II"
+  },
+  "CYUL": {
+    "category": "CAT III"
+  },
+  "CYVR": {
+    "category": "CAT III"
+  },
+  "CYWG": {
+    "category": "CAT II"
+  },
+  "CYYJ": {
+    "category": "CAT II"
+  },
+  "CYYZ": {
+    "category": "CAT III"
+  },
+  "CYZD": {
+    "category": "CAT II"
+  },
+  "DAAG": {
+    "category": "CAT II"
+  },
+  "DBBB": {
+    "category": "CAT II"
+  },
+  "DNAA": {
+    "category": "CAT II"
+  },
+  "DNPO": {
+    "category": "CAT II"
+  },
+  "EBBR": {
+    "category": "CAT III"
+  },
+  "EBLG": {
+    "category": "CAT III"
+  },
+  "EDDB": {
+    "category": "CAT III"
+  },
+  "EDDF": {
+    "category": "CAT III"
+  },
+  "EDDH": {
+    "category": "CAT III"
+  },
+  "EDDK": {
+    "category": "CAT III"
+  },
+  "EDDL": {
+    "category": "CAT III"
+  },
+  "EDDM": {
+    "category": "CAT III"
+  },
+  "EDDP": {
+    "category": "CAT III"
+  },
+  "EDDS": {
+    "category": "CAT III"
+  },
+  "EDDV": {
+    "category": "CAT III"
+  },
+  "EDDW": {
+    "category": "CAT III"
+  },
+  "EFHK": {
+    "category": "CAT III"
+  },
+  "EGCC": {
+    "category": "CAT III"
+  },
+  "EGFF": {
+    "category": "CAT III"
+  },
+  "EGGD": {
+    "category": "CAT III"
+  },
+  "EGGP": {
+    "category": "CAT III"
+  },
+  "EGKK": {
+    "category": "CAT III"
+  },
+  "EGLL": {
+    "category": "CAT III"
+  },
+  "EGNT": {
+    "category": "CAT III"
+  },
+  "EGNX": {
+    "category": "CAT III"
+  },
+  "EGPF": {
+    "category": "CAT III"
+  },
+  "EGPH": {
+    "category": "CAT III"
+  },
+  "EGPK": {
+    "category": "CAT II"
+  },
+  "EGSS": {
+    "category": "CAT III"
+  },
+  "EHAM": {
+    "category": "CAT III"
+  },
+  "EHEH": {
+    "category": "CAT III"
+  },
+  "EIDW": {
+    "category": "CAT III"
+  },
+  "EINN": {
+    "category": "CAT III"
+  },
+  "EKCH": {
+    "category": "CAT III"
+  },
+  "ELLX": {
+    "category": "CAT III"
+  },
+  "ENBR": {
+    "category": "CAT II"
+  },
+  "ENGM": {
+    "category": "CAT III"
+  },
+  "ENVA": {
+    "category": "CAT II"
+  },
+  "EPGD": {
+    "category": "CAT II"
+  },
+  "EPKK": {
+    "category": "CAT III"
+  },
+  "EPWA": {
+    "category": "CAT III"
+  },
+  "ESGG": {
+    "category": "CAT II"
+  },
+  "ESMS": {
+    "category": "CAT II"
+  },
+  "ESSA": {
+    "category": "CAT III"
+  },
+  "EVRA": {
+    "category": "CAT III"
+  },
+  "FACT": {
+    "category": "CAT II"
+  },
+  "FAOR": {
+    "category": "CAT III"
+  },
+  "FBSK": {
+    "category": "CAT II"
+  },
+  "FIMP": {
+    "category": "CAT III"
+  },
+  "FMEE": {
+    "category": "CAT III"
+  },
+  "FMMI": {
+    "category": "CAT II"
+  },
+  "FNLU": {
+    "category": "CAT II"
+  },
+  "FTTJ": {
+    "category": "CAT II"
+  },
+  "GCTS": {
+    "category": "CAT III"
+  },
+  "GMMN": {
+    "category": "CAT II"
+  },
+  "GOBD": {
+    "category": "CAT II"
+  },
+  "GQNN": {
+    "category": "CAT II"
+  },
+  "HAAB": {
+    "category": "CAT II"
+  },
+  "HECA": {
+    "category": "CAT II"
+  },
+  "HKJK": {
+    "category": "CAT II"
+  },
+  "HLLT": {
+    "category": "CAT II"
+  },
+  "HRYR": {
+    "category": "CAT II"
+  },
+  "KIAH": {
+    "category": "CAT III"
+  },
+  "KJFK": {
+    "category": "CAT III"
+  },
+  "KLAX": {
+    "category": "CAT III"
+  },
+  "KMIA": {
+    "category": "CAT III"
+  },
+  "KORD": {
+    "category": "CAT III"
+  },
+  "KSFO": {
+    "category": "CAT III"
+  },
+  "KSEA": {
+    "category": "CAT III"
+  },
+  "KTPA": {
+    "category": "CAT III"
+  },
+  "LATI": {
+    "category": "CAT II"
+  },
+  "LBBG": {
+    "category": "CAT III"
+  },
+  "LDZA": {
+    "category": "CAT III"
+  },
+  "LEAL": {
+    "category": "CAT II"
+  },
+  "LEBL": {
+    "category": "CAT III"
+  },
+  "LEMD": {
+    "category": "CAT III"
+  },
+  "LEPA": {
+    "category": "CAT III"
+  },
+  "LEZL": {
+    "category": "CAT II"
+  },
+  "LFLL": {
+    "category": "CAT III"
+  },
+  "LFMN": {
+    "category": "CAT II"
+  },
+  "LFPG": {
+    "category": "CAT III"
+  },
+  "LFPO": {
+    "category": "CAT III"
+  },
+  "LFRS": {
+    "category": "CAT II"
+  },
+  "LGAV": {
+    "category": "CAT III"
+  },
+  "LICA": {
+    "category": "CAT II"
+  },
+  "LICC": {
+    "category": "CAT III"
+  },
+  "LIEE": {
+    "category": "CAT II"
+  },
+  "LIMC": {
+    "category": "CAT III"
+  },
+  "LIML": {
+    "category": "CAT III"
+  },
+  "LIMN": {
+    "category": "CAT III"
+  },
+  "LIPZ": {
+    "category": "CAT III"
+  },
+  "LIRF": {
+    "category": "CAT III"
+  },
+  "LIRS": {
+    "category": "CAT II"
+  },
+  "LJLJ": {
+    "category": "CAT III"
+  },
+  "LLBG": {
+    "category": "CAT III"
+  },
+  "LOWG": {
+    "category": "CAT III"
+  },
+  "LOWW": {
+    "category": "CAT III"
+  },
+  "LPFR": {
+    "category": "CAT III"
+  },
+  "LPMA": {
+    "category": "CAT II"
+  },
+  "LPPR": {
+    "category": "CAT II"
+  },
+  "LQSA": {
+    "category": "CAT III"
+  },
+  "LSGG": {
+    "category": "CAT III"
+  },
+  "LSZH": {
+    "category": "CAT III"
+  },
+  "LTBA": {
+    "category": "CAT III"
+  },
+  "LTBJ": {
+    "category": "CAT III"
+  },
+  "LTBS": {
+    "category": "CAT II"
+  },
+  "LTFM": {
+    "category": "CAT III"
+  },
+  "LTFJ": {
+    "category": "CAT III"
+  },
+  "LUKK": {
+    "category": "CAT III"
+  },
+  "LWOH": {
+    "category": "CAT II"
+  },
+  "MDPC": {
+    "category": "CAT II"
+  },
+  "MMMX": {
+    "category": "CAT III"
+  },
+  "MROC": {
+    "category": "CAT II"
+  },
+  "NZAA": {
+    "category": "CAT III"
+  },
+  "OADB": {
+    "category": "CAT II"
+  },
+  "OEJN": {
+    "category": "CAT III"
+  },
+  "OIIE": {
+    "category": "CAT II"
+  },
+  "OIKB": {
+    "category": "CAT II"
+  },
+  "OIMM": {
+    "category": "CAT II"
+  },
+  "OISL": {
+    "category": "CAT II"
+  },
+  "OITT": {
+    "category": "CAT II"
+  },
+  "OIZH": {
+    "category": "CAT II"
+  },
+  "OOMS": {
+    "category": "CAT III"
+  },
+  "OPKC": {
+    "category": "CAT II"
+  },
+  "ORBI": {
+    "category": "CAT II"
+  },
+  "OYSN": {
+    "category": "CAT II"
+  },
+  "PANC": {
+    "category": "CAT III"
+  },
+  "PHTO": {
+    "category": "CAT II"
+  },
+  "RPLL": {
+    "category": "CAT III"
+  },
+  "SABE": {
+    "category": "CAT III"
+  },
+  "SAEZ": {
+    "category": "CAT III"
+  },
+  "SBBR": {
+    "category": "CAT II"
+  },
+  "SBCF": {
+    "category": "CAT III"
+  },
+  "SBCT": {
+    "category": "CAT II"
+  },
+  "SBGL": {
+    "category": "CAT III"
+  },
+  "SBGR": {
+    "category": "CAT III"
+  },
+  "SBPA": {
+    "category": "CAT II"
+  },
+  "SBRJ": {
+    "category": "CAT II"
+  },
+  "SBSP": {
+    "category": "CAT II"
+  },
+  "SCEL": {
+    "category": "CAT III"
+  },
+  "SLLP": {
+    "category": "CAT II"
+  },
+  "SPIM": {
+    "category": "CAT III"
+  },
+  "SUMU": {
+    "category": "CAT III"
+  },
+  "TJSJ": {
+    "category": "CAT III"
+  },
+  "TNCA": {
+    "category": "CAT II"
+  },
+  "TTPP": {
+    "category": "CAT II"
+  },
+  "UAAA": {
+    "category": "CAT III"
+  },
+  "UACD": {
+    "category": "CAT II"
+  },
+  "UAFM": {
+    "category": "CAT II"
+  },
+  "UBBB": {
+    "category": "CAT III"
+  },
+  "UCFO": {
+    "category": "CAT II"
+  },
+  "UEEE": {
+    "category": "CAT II"
+  },
+  "UGTB": {
+    "category": "CAT III"
+  },
+  "UKBB": {
+    "category": "CAT III"
+  },
+  "UKDD": {
+    "category": "CAT III"
+  },
+  "ULLI": {
+    "category": "CAT II"
+  },
+  "UMMS": {
+    "category": "CAT III"
+  },
+  "UUEE": {
+    "category": "CAT II"
+  },
+  "UUDD": {
+    "category": "CAT III"
+  },
+  "UUWW": {
+    "category": "CAT III"
+  },
+  "VIDP": { "category": "CAT IIIB" },
+  "VECC": { "category": "CAT IIIB" },
+  "VOBL": { "category": "CAT IIIB" },
+  "VABB": { "category": "CAT II" },
+  "VILK": { "category": "CAT IIIB" },
+  "VIJP": { "category": "CAT IIIB" },
+
+  "VOMM": { "category": "CAT II" },
+  "VOHS": { "category": "CAT II" },
+  "VTBS": { "category": "CAT III" },
+  "VTSP": { "category": "CAT II" },
+
+  "VAAH": { "category": "CAT II" },
+  "VOCI": { "category": "CAT II" },
+  "VOPN": { "category": "CAT II" },
+  "VOGO": { "category": "CAT II" },
+  "VANP": { "category": "CAT II" },
+  "VIAR": { "category": "CAT IIIB" },
+  "VABP": { "category": "CAT II" },
+  "VAPO": { "category": "CAT II" },
+  "VAAU": { "category": "CAT II" },
+
+  "VOBG": { "category": "CAT II" },
+  "VOCL": { "category": "CAT II" },
+  "VOTV": { "category": "CAT II" },
+  "VORY": { "category": "CAT II" },
+
+  "VEBS": { "category": "CAT II" },
+  "VERP": { "category": "CAT II" },
+  "VEGT": { "category": "CAT II" },
+
+  "VIDN": { "category": "CAT II" },
+  "VIGG": { "category": "CAT II" },
+  "VICG": { "category": "CAT II" },
+
+  "VARK": { "category": "CAT II" },
+  "VAUD": { "category": "CAT II" },
+
+  "VIAG": { "category": "CAT I" },
+  "VIGR": { "category": "CAT I" },
+  "VIAX": { "category": "CAT I" },
+
+  "VEIM": { "category": "CAT I" },
+  "VEAT": { "category": "CAT I" },
+
+  "VOBZ": { "category": "CAT I" },
+  "VOWA": { "category": "CAT I" },
+
+  "VOMD": { "category": "CAT I" },
+  "VOTJ": { "category": "CAT I" },
+  "WADD": {
+    "category": "CAT II"
+  },
+  "WIII": {
+    "category": "CAT III"
+  },
+  "WMKK": {
+    "category": "CAT III"
+  },
+  "WSSS": {
+    "category": "CAT III"
+  },
+  "YBBN": {
+    "category": "CAT III"
+  },
+  "YMML": {
+    "category": "CAT III"
+  },
+  "YPPH": {
+    "category": "CAT III"
+  },
+  "YSCB": {
+    "category": "CAT II"
+  },
+  "YSSY": {
+    "category": "CAT II"
+  },
+  "ZBAA": {
+    "category": "CAT III"
+  },
+  "ZGGG": {
+    "category": "CAT II"
+  },
+  "ZGSZ": {
+    "category": "CAT II"
+  },
+  "ZPPP": {
+    "category": "CAT II"
+  },
+  "ZSHC": {
+    "category": "CAT II"
+  },
+  "ZSPD": {
+    "category": "CAT III"
+  }
+}
