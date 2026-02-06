@@ -109,54 +109,6 @@ export function FlightSearch() {
               )}
             </Button>
           </form>
-
-          <div className="mt-8 p-5 bg-blue-50 rounded-xl border border-blue-200">
-            <h3 className="font-semibold text-blue-900 mb-3 text-sm">System Features:</h3>
-            <ul className="text-sm text-blue-800 space-y-2">
-              <li className="flex items-start gap-2">
-                <span className="text-blue-600 mt-0.5">•</span>
-                <span>Real-time TAF/METAR weather data analysis</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-blue-600 mt-0.5">•</span>
-                <span>Machine learning delay probability (98.3% accuracy)</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-blue-600 mt-0.5">•</span>
-                <span>ILS Category operational feasibility assessment</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-blue-600 mt-0.5">•</span>
-                <span>SHAP-based explainability insights</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-blue-600 mt-0.5">•</span>
-                <span>Actionable operational recommendations</span>
-              </li>
-            </ul>
-          </div>
-
-          <div className="mt-5 p-5 bg-amber-50 rounded-xl border border-amber-200">
-            <h3 className="font-semibold text-amber-900 mb-3 text-sm">Try These Examples:</h3>
-            <div className="grid grid-cols-2 gap-3 text-sm">
-              <button 
-                type="button"
-                onClick={() => setFlightNumber("6E2292")}
-                className="text-left px-4 py-3 bg-white rounded-lg border border-amber-300 hover:bg-amber-50 hover:border-amber-400 transition-all"
-              >
-                <span className="font-mono text-amber-900 font-semibold block mb-1">6E2292</span>
-                <span className="text-xs text-amber-700">IndiGo Delhi-Mumbai</span>
-              </button>
-              <button 
-                type="button"
-                onClick={() => setFlightNumber("AI101")}
-                className="text-left px-4 py-3 bg-white rounded-lg border border-amber-300 hover:bg-amber-50 hover:border-amber-400 transition-all"
-              >
-                <span className="font-mono text-amber-900 font-semibold block mb-1">AI101</span>
-                <span className="text-xs text-amber-700">Air India Sample</span>
-              </button>
-            </div>
-          </div>
         </CardContent>
       </Card>
     </div>
